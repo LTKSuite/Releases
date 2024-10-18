@@ -1,0 +1,2 @@
+# LTKSuite
+This repository is where you can download the main installer for the suite. In the releases you can find the installer, as well as all the other apps - these might not properly work or connect to the hosting servers if installed separately. The installer will also provide you with updates which might be necessary to support future functionality.
