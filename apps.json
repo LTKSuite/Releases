@@ -1,0 +1,8 @@
+{
+    "fileportal": {
+        "name": "FilePortal",
+        "description": "FilePortal is a simple peer file sharing application (unlimited size).",
+        "icon": "https://github.com/LTKSuite/Releases/raw/refs/heads/main/Fileportal/Icon.png",
+        "url": "https://github.com/LTKSuite/Releases/raw/refs/heads/main/Fileportal/Windows/fileportal_1.0.0_x64_en-US.msi"
+    }
+}
